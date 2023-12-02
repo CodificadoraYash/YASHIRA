@@ -1,0 +1,71 @@
+.navigation{
+    
+    background-color: darkmagenta;
+    border-bottom: 4px solid orange;
+    box-shadow: 2px 4px 50px purple;
+    margin-bottom: 35px;
+
+
+}
+a {
+    color: mediumvioletred;
+    
+}
+
+
+h5 {
+  background-color: darkmagenta;
+  color: cyan;
+}
+h6 {
+    color: cyan;
+  }
+
+.navigationintems .nav-item a{
+    font-size: medium;
+    color: aqua;
+}
+section {
+    margin: 60px 20px;
+    background-color: white;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    color:yellow;
+    font-weight: 600;
+    font-style: normal;
+}
+
+h2 {
+    color: purple;
+}
+
+h3 {
+    color: purple;
+}
+
+
+.proyecto {
+    border: 1px solid #dddddd;
+    padding: 10px;
+    margin-bottom: 20px;
+    color: #e10606;
+}
+
+footer {
+    background-color: purple;
+    color: #ffffff;
+    text-align: center;
+    padding: 13px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    float: left;
+    display: flex;
+    justify-content: center;
+
+}
